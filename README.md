@@ -10,7 +10,7 @@ This is a community driven project. If you would like to contribute, please fork
 
 ## Requirements:
 * Go 1.8 or newer
-## chachning
+## chachningtdsfghj
 ## Usage:
 ~~~~
 client, err := saidp_sdk_go.NewClient("af1b351845ec47968b27debd9cd4ce53", "101db0347fdf71dab63cd965b8782ff6ba0f8f1c91e8cf52f970d1267e0fb453", "company.secureauth.com", 443, SecureAuth1, true, false)
